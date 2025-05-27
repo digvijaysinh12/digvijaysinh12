@@ -37,7 +37,7 @@ Here are a few things I’ve built:
 
 ## 📫 Let's Connect!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/digvijaysinh)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/digvijaysinh-sarvaiya-a856a2280)  
 - 📧 Email: digvijaysinh8622@gmail.com
 
 ---
