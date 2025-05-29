@@ -21,7 +21,7 @@
 Here are a few things I’ve built:
 
 - 💬 **Real-Time Chat App** – MERN stack with Socket.IO for instant messaging  
-- 💰 **Expense Tracker** – AI-based personal finance management system  
+- 💰 **Expense Tracker** –  personal finance management system  
 - 🛍️ **E-commerce Website** – Full-stack website with authentication and shopping cart
 
 ---
