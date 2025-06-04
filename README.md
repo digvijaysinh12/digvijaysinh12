@@ -82,6 +82,9 @@
   <a href="mailto:digvijaysinh8622@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://leetcode.com/u/DIGVIJAYSINH_SARVAIYA/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
 
 ---
