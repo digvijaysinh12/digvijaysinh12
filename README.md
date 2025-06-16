@@ -84,16 +84,17 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=digvijaysinh-sarvaiya&show_icons=true&theme=default&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=digvijaysinh12&show_icons=true&theme=default&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digvijaysinh-sarvaiya&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digvijaysinh12&layout=compact&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=digvijaysinh-sarvaiya&theme=flat&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=digvijaysinh12&theme=flat&no-frame=true&column=7" />
 </p>
+
 
 ---
 
