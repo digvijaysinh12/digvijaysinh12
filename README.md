@@ -53,11 +53,18 @@
 - User authentication
 - Cart and order management
 
-## LeetCode Stats 🧠
+## LeetCode Journey 🧠
 
 <div align="center">
 
+### 📊 Problem Solving Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/DIGVIJAYSINH_SARVAIYA?ext=contest&theme=light&font=baloo)
+
+### 🔥 Submission Activity
+![LeetCode Activity](https://leetcode-stats-api.herokuapp.com/DIGVIJAYSINH_SARVAIYA?theme=light)
+
+### 📈 Year Progress
+**188 submissions** in the past year | **92 active days** | **Max streak: 14 days**
 
 </div>
 
