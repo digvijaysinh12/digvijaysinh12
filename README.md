@@ -73,6 +73,16 @@
 
 ---
 
+<h2 align="center">📊 LeetCode Stats</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/DIGVIJAYSINH_SARVAIYA?ext=contest&theme=light&font=baloo" />
+</p>
+
+---
+
+---
+
 <h2 align="center">📬 Let's Connect!</h2>
 
 <p align="center">
