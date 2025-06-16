@@ -51,14 +51,6 @@
 
 ---
 
-<h2 align="center">🔥 LeetCode Contributions & GitHub Metrics</h2>
-
-<p align="center">
-  <img src="https://github.com/digvijaysinh12/digvijaysinh12/blob/main/metrics.svg" />
-</p>
-
----
-
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
