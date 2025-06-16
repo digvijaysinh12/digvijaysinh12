@@ -79,6 +79,13 @@
   <img src="https://leetcard.jacoblin.cool/DIGVIJAYSINH_SARVAIYA?ext=contest&theme=light&font=baloo" />
 </p>
 
+<h2 align="center">📊 LeetCode Contributions</h2>
+
+<p align="center">
+  <img src="https://github.com/digvijaysinh12/digvijaysinh12/blob/main/metrics.svg" />
+</p>
+
+
 ---
 
 <h2 align="center">📈 GitHub Stats</h2>
