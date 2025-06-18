@@ -1,4 +1,7 @@
-<h1 align="center">👋 Hi, I'm Digvijaysinh Sarvaiya!</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Digvijaysinh+Sarvaiya!;MERN+Stack+Developer;Full-Stack+Explorer;Tech+Enthusiast;&center=true&width=440&height=45&color=00bfff&vCenter=true&size=22" />
+</h1>
+
 
 <p align="center">
   🎓 B.E. Information Technology Student at <b>VGEC, Gujarat</b><br/>
