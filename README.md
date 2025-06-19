@@ -59,15 +59,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=digvijaysinh12&show_icons=true&theme=radical&hide=prs,issues,contribs" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=digvijaysinh12&theme=radical" alt="GitHub Streak" />
 </p>
-</p>
-
-<h2 align="center">📈 GitHub Insights</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=digvijaysinh12&theme=radical&show_icons=true&count_private=true" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digvijaysinh12&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Top Languages" /><br/>
+alt="Top Languages" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=digvijaysinh12&repo=expense-tracker&theme=radical" alt="Pinned Repo" />
 </p>
-
 
 ---
 
