@@ -48,13 +48,6 @@
   <img src="https://leetcard.jacoblin.cool/DIGVIJAYSINH_SARVAIYA?theme=light&ext=contest&font=baloo" />
 </p>
 
-<h3 align="center">📈 LeetCode Contributions & Activity</h3>
-
-<p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=DIGVIJAYSINH_SARVAIYA&theme=light" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DIGVIJAYSINH_SARVAIYA&theme=radical" alt="LeetCode Streak" />
-</p>
-
 ---
 
 <h2 align="center">📈 GitHub Stats</h2>
