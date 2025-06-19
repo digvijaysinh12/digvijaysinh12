@@ -12,12 +12,50 @@
 
 <h2 align="center">🚀 Tech Stack</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-HTML5,%20CSS3,%20JavaScript,%20React,%20Tailwind,%20Bootstrap-blue?style=for-the-badge&logo=react&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/Backend-Node.js,%20Express.js,%20MongoDB,%20MySQL-brightgreen?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/DevTools-Git,%20GitHub,%20Postman,%20Vite,%20Netlify,%20Vercel-orange?style=for-the-badge&logo=github&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/Others-Redux,%20Socket.IO,%20Axios-lightgrey?style=for-the-badge&logo=redux&logoColor=white" />
-</p>
+<table align="center">
+  <tr>
+    <td><strong>🖥️ Frontend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html" title="HTML" /> 
+      <img src="https://skillicons.dev/icons?i=css" title="CSS" />
+      <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=react" title="React" />
+      <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🔧 Backend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+      <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🗄️ Database</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>📦 Libraries</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=redux" title="Redux" />
+      <img src="https://skillicons.dev/icons?i=socketio" title="Socket.IO" />
+      <img src="https://skillicons.dev/icons?i=axios" title="Axios" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🛠️ Tools & Platforms</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git" title="Git" />
+      <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+      <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
+      <img src="https://skillicons.dev/icons?i=vite" title="Vite" />
+    </td>
+  </tr>
+</table>
 
 
 ---
