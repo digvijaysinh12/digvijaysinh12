@@ -13,11 +13,12 @@
 <h2 align="center">🚀 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vite,netlify,vercel" /><br/>
-  <img src="https://skillicons.dev/icons?i=redux,socketio,axios" />
+  <img src="https://img.shields.io/badge/Frontend-HTML5,%20CSS3,%20JavaScript,%20React,%20Tailwind,%20Bootstrap-blue?style=for-the-badge&logo=react&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Backend-Node.js,%20Express.js,%20MongoDB,%20MySQL-brightgreen?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/DevTools-Git,%20GitHub,%20Postman,%20Vite,%20Netlify,%20Vercel-orange?style=for-the-badge&logo=github&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Others-Redux,%20Socket.IO,%20Axios-lightgrey?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
+
 
 ---
 
