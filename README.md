@@ -53,9 +53,12 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=digvijaysinh12&show_icons=true&theme=radical" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=digvijaysinh12&theme=radical" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digvijaysinh12&layout=compact&theme=radical" />
+<h2 align="center">📈 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=digvijaysinh12&show_icons=true&theme=radical&hide=prs,issues,contribs" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=digvijaysinh12&theme=radical" alt="GitHub Streak" />
+</p>
 </p>
 
 ---
