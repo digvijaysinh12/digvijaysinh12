@@ -72,4 +72,19 @@ Personal finance tracker with user authentication, chart visualizations, and rea
 
 ## 📊 GitHub Stats
 
-![Digvijaysinh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=digvijaysinh12&show_icons=true&theme=radical)
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=digvijaysinh12&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=digvijaysinh12&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digvijaysinh12&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=digvijaysinh12&theme=radical&row=2&column=4" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=digvijaysinh12&theme=github-compact" alt="Activity Graph" />
+</p>
+
