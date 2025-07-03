@@ -87,4 +87,12 @@ Personal finance tracker with user authentication, chart visualizations, and rea
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=digvijaysinh12&theme=github-compact" alt="Activity Graph" />
 </p>
+## 📂 Repository-Wise Contributions
+
+| Repository | Description | Commits |
+|------------|-------------|---------|
+| [Expense-Manager](https://github.com/digvijaysinh12/Expense-Manager) | Personal finance tracker with MERN stack | 75+ |
+| [Chat-App](https://github.com/digvijaysinh12/Chat-App) | Real-time 1:1 chat using Socket.IO & JWT | 90+ |
+| [Ecommerce-App](https://github.com/digvijaysinh12/Ecommerce-App) | Full-stack e-commerce web app | 100+ |
+
 
