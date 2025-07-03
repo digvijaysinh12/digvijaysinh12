@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Digvijaysinh Sarvaiya!
+<h1 align="center">👋 Hi, I'm Digvijaysinh Sarvaiya</h1>
 
-🎓 B.Tech IT Student | 💻 Aspiring Full Stack Developer | 🔐 Backend Enthusiast
+<p align="center">
+  🎓 B.Tech IT Student • 💻 Aspiring Full Stack Developer • 🔐 Backend Enthusiast
+</p>
 
 ---
 
@@ -18,11 +20,11 @@ Motivated IT undergraduate eager to begin a career in **backend** and **full-sta
 
 ## 🎓 Education
 
-- **B.Tech in Information Technology**  
+- 🎓 **B.Tech in Information Technology**  
   *Vishwakarma Government Engineering College, Ahmedabad*  
   📅 *2022 – 2026* | CGPA: `8.26`, CPI: `7.05`
 
-- **Higher Secondary (PCM)**  
+- 🏫 **Higher Secondary (PCM)**  
   *Shree GyanGuru Vidhyapeeth, Bhavnagar*  
   📅 *2021 – 2022* | Percentage: `87%`
 
@@ -30,11 +32,24 @@ Motivated IT undergraduate eager to begin a career in **backend** and **full-sta
 
 ## 💼 Technical Skills
 
-- **Frontend**: HTML5, CSS3, JavaScript, React.js, Tailwind CSS  
-- **Backend**: Node.js, Express.js, REST APIs, JWT Authentication  
-- **Databases**: MongoDB, MySQL  
-- **Tools & Platforms**: Git, GitHub, Postman, VS Code  
-- **Others**: LeetCode (Solved 200+ DSA Problems)
+### 👨‍💻 Languages & Frameworks
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -70,8 +85,6 @@ Personal finance tracker with user authentication, chart visualizations, and rea
 
 ---
 
-## 📊 GitHub Stats
-
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
@@ -87,12 +100,26 @@ Personal finance tracker with user authentication, chart visualizations, and rea
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=digvijaysinh12&theme=github-compact" alt="Activity Graph" />
 </p>
+
+---
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/digvijaysinh12?ext=contest&theme=dark" alt="LeetCode Stats" />
+</p>
+<p align="center"><i>“The biggest risk is not taking any risk.” — Mark Zuckerberg</i></p>
+
+
+---
+
 ## 📂 Repository-Wise Contributions
 
-| Repository | Description | Commits |
-|------------|-------------|---------|
+| 📁 Repository | 📋 Description | 🔢 Commits |
+|--------------|----------------|------------|
 | [Expense-Manager](https://github.com/digvijaysinh12/Expense-Manager) | Personal finance tracker with MERN stack | 75+ |
 | [Chat-App](https://github.com/digvijaysinh12/Chat-App) | Real-time 1:1 chat using Socket.IO & JWT | 90+ |
 | [Ecommerce-App](https://github.com/digvijaysinh12/Ecommerce-App) | Full-stack e-commerce web app | 100+ |
 
+---
 
