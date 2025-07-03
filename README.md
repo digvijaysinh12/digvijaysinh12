@@ -106,7 +106,7 @@ Personal finance tracker with user authentication, chart visualizations, and rea
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/digvijaysinh12?ext=contest&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/DIGVIJAYSINH_SARVAIYA?ext=contest&theme=dark" alt="LeetCode Stats" />
 </p>
 <p align="center"><i>“The biggest risk is not taking any risk.” — Mark Zuckerberg</i></p>
 
