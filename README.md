@@ -93,13 +93,35 @@ Personal finance tracker with user authentication, chart visualizations, and rea
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digvijaysinh12&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=digvijaysinh12&theme=radical&row=2&column=4" alt="GitHub Trophies" />
-</p>
+## 📂 Repository-Wise Contributions
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=digvijaysinh12&theme=github-compact" alt="Activity Graph" />
-</p>
+<table>
+  <thead>
+    <tr>
+      <th align="left">📁 Repository</th>
+      <th align="left">📋 Description</th>
+      <th align="center">🔢 Commits</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/digvijaysinh12/Expense-Manager"><b>Expense-Manager</b></a></td>
+      <td>💰 Personal finance tracker with MERN stack</td>
+      <td align="center"><b>75+</b></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/digvijaysinh12/Chat-App"><b>Chat-App</b></a></td>
+      <td>💬 Real-time 1:1 chat using Socket.IO & JWT</td>
+      <td align="center"><b>90+</b></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/digvijaysinh12/Ecommerce-App"><b>Ecommerce-App</b></a></td>
+      <td>🛒 Full-stack e-commerce web app</td>
+      <td align="center"><b>100+</b></td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 
@@ -108,18 +130,11 @@ Personal finance tracker with user authentication, chart visualizations, and rea
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/DIGVIJAYSINH_SARVAIYA?ext=contest&theme=dark" alt="LeetCode Stats" />
 </p>
-<p align="center"><i>“The biggest risk is not taking any risk.” — Mark Zuckerberg</i></p>
-
 
 ---
 
-## 📂 Repository-Wise Contributions
+<p align="center"><i>“The biggest risk is not taking any risk.” — Mark Zuckerberg</i></p>
 
-| 📁 Repository | 📋 Description | 🔢 Commits |
-|--------------|----------------|------------|
-| [Expense-Manager](https://github.com/digvijaysinh12/Expense-Manager) | Personal finance tracker with MERN stack | 75+ |
-| [Chat-App](https://github.com/digvijaysinh12/Chat-App) | Real-time 1:1 chat using Socket.IO & JWT | 90+ |
-| [Ecommerce-App](https://github.com/digvijaysinh12/Ecommerce-App) | Full-stack e-commerce web app | 100+ |
 
 ---
 
