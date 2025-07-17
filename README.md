@@ -125,6 +125,9 @@ Personal finance tracker with user authentication, chart visualizations, and rea
 
 ---
 
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/DIGVIJAYSINH_SARVAIYA?ext=heatmap)
+
+
 <p align="center"><i>“The biggest risk is not taking any risk.” — Mark Zuckerberg</i></p>
 
 
