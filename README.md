@@ -125,8 +125,6 @@ Personal finance tracker with user authentication, chart visualizations, and rea
 
 ![LeetCode Heatmap](https://leetcard.jacoblin.cool/DIGVIJAYSINH_SARVAIYA?ext=heatmap)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=digvijaysinh12&theme=github)
-
 
 ---
 
