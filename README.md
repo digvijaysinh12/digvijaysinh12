@@ -120,8 +120,9 @@ Personal finance tracker with user authentication, chart visualizations, and rea
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  ![LeetCode Heatmap](https://leetcard.jacoblin.cool/DIGVIJAYSINH_SARVAIYA?ext=heatmap)
 </p>
+  ![LeetCode Heatmap](https://leetcard.jacoblin.cool/DIGVIJAYSINH_SARVAIYA?ext=heatmap)
+
 
 ---
 
